@@ -1,3 +1,6 @@
+import sys
+import warnings
+warnings.filterwarnings('ignore')
 import streamlit as st
 import time
 import threading
